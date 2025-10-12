@@ -1,0 +1,20 @@
+Workshop Instructions: Week 2
+
+QUICK START:
+
+1. Choose one of these three datasets to explore:
+   - Febrile Diseases Burkina Faso
+   - Motorcycle Accidents in Colombia  
+   - COVID-19 Patients in the US
+
+2. Read "00_info_about_the_datasets.pdf" to learn more about each dataset
+
+3. Open the corresponding script from the "scripts" folder
+
+4. Add your name, title, and today's date at the top of the script
+
+5. Complete the assignment by working through the steps in your R script
+
+6. Submit your completed script to the Workshop 2 submission page
+
+For detailed instructions, refer to the full workshop materials on the course page.
